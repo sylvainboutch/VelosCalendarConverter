@@ -7,12 +7,15 @@ using System.Data.OleDb;
 
 namespace VelosCalendarConverter
 {
-    class XlsReader
+    /// <summary>
+    /// Xls reader using ADO.Net OLEDB to read the file
+    /// </summary>
+    class XlsReaderAdo
     {
         public static string filename;
         public DataTable data;
 
-        public XlsReader(string file)
+        public XlsReaderAdo(string file)
         {
             filename = file;
         }

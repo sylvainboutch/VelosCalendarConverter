@@ -21,7 +21,8 @@ namespace VelosCalendarConverter
             ofdOpenXls.Filter = "Excel Files|*.XLS;*.XLSX";
             DialogResult dr=ofdOpenXls.ShowDialog();
             string filename = dr == DialogResult.OK ? ofdOpenXls.FileName:"";
-            XlsReader xlsReader = new XlsReader(filename);
+            XlsReaderAdo xlsReader = new XlsReaderAdo(filename);
+            //XlsReaderOfficeInterop xlsReader = new XlsReaderOfficeInterop(filename);
             xlsReader.openXls();
             txtOuput.Text = xlsReader.printDT();
         }

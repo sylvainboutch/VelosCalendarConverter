@@ -5,3 +5,4 @@ C:\Users\sbouchar\Documents\GitHub\VelosCalendarConverter\VelosCalendarConverter
 C:\Users\sbouchar\Documents\GitHub\VelosCalendarConverter\VelosCalendarConverter\VelosCalendarConverter\obj\x86\Debug\VelosCalendarConverter.csproj.GenerateResource.Cache
 C:\Users\sbouchar\Documents\GitHub\VelosCalendarConverter\VelosCalendarConverter\VelosCalendarConverter\obj\x86\Debug\VelosCalendarConverter.exe
 C:\Users\sbouchar\Documents\GitHub\VelosCalendarConverter\VelosCalendarConverter\VelosCalendarConverter\obj\x86\Debug\VelosCalendarConverter.pdb
+C:\Users\sbouchar\Documents\GitHub\VelosCalendarConverter\VelosCalendarConverter\VelosCalendarConverter\obj\x86\Debug\VelosCalendarConverter.csprojResolveAssemblyReference.cache
