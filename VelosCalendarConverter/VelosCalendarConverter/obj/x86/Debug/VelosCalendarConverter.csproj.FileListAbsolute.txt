@@ -1,0 +1,7 @@
+C:\Users\sbouchar\Documents\GitHub\VelosCalendarConverter\VelosCalendarConverter\VelosCalendarConverter\bin\Debug\VelosCalendarConverter.exe
+C:\Users\sbouchar\Documents\GitHub\VelosCalendarConverter\VelosCalendarConverter\VelosCalendarConverter\bin\Debug\VelosCalendarConverter.pdb
+C:\Users\sbouchar\Documents\GitHub\VelosCalendarConverter\VelosCalendarConverter\VelosCalendarConverter\obj\x86\Debug\VelosCalendarConverter.Properties.Resources.resources
+C:\Users\sbouchar\Documents\GitHub\VelosCalendarConverter\VelosCalendarConverter\VelosCalendarConverter\obj\x86\Debug\VelosCalendarConverter.VelosCalendarConverter.resources
+C:\Users\sbouchar\Documents\GitHub\VelosCalendarConverter\VelosCalendarConverter\VelosCalendarConverter\obj\x86\Debug\VelosCalendarConverter.csproj.GenerateResource.Cache
+C:\Users\sbouchar\Documents\GitHub\VelosCalendarConverter\VelosCalendarConverter\VelosCalendarConverter\obj\x86\Debug\VelosCalendarConverter.exe
+C:\Users\sbouchar\Documents\GitHub\VelosCalendarConverter\VelosCalendarConverter\VelosCalendarConverter\obj\x86\Debug\VelosCalendarConverter.pdb
